@@ -1,0 +1,16 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+.idea/
+.vscode/
+[Tt]est[Rr]esults/
+*.coverage
+*.coveragexml
+.DS_Store
+Thumbs.db
+*.log
+pos_export_demo.csv
+*.csv
+*.json
